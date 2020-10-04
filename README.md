@@ -1,2 +1,2 @@
 # magnum-thirdparty
-Magnum third party resources to build required plugins and samples.
+All Magnum third party resources required to buld plugins, integration library and samples.
